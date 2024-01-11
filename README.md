@@ -47,9 +47,6 @@ La primera estandarización del lenguaje C fue en ANSI, con el estándar X3.159-
 > [!IMPORTANT]
 > Programar la popular dona en código y salida 3D giratoria.
 
-> [!IMPORTANT]
-> Estudiar y examinar los script compartidos del ingeniero <a href="https://github.com/deinerdb">Deiner Domínguez</a>.
-
 ---
 
 **PLANTILLAS NOTAS ESPECIALES GITHUB + MARKDOWN:**
