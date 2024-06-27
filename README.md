@@ -2,11 +2,11 @@
 
 **🌿📚 INFORMACIÓN GENERAL 📚🌿:**
 
-C es un lenguaje de programación de propósito general originalmente desarrollado por Dennis Ritchie entre 1969 y 1972 en los Laboratorios Bell,​ como evolución del anterior lenguaje B, a su vez basado en BCPL.
+*C es un lenguaje de programación de propósito general originalmente desarrollado por Dennis Ritchie entre 1969 y 1972 en los Laboratorios Bell,​ como evolución del anterior lenguaje B, a su vez basado en BCPL.*
 
-[...]. C es apreciado por la eficiencia del código que produce y es el lenguaje de programación más popular para crear softwares de sistemas y aplicaciones.
+*[...]. C es apreciado por la eficiencia del código que produce y es el lenguaje de programación más popular para crear softwares de sistemas y aplicaciones.*
 
-Se trata de un lenguaje de tipos de datos estáticos, débilmente tipado, que dispone de las estructuras típicas de los lenguajes de alto nivel pero, a su vez, dispone de construcciones del lenguaje que permiten un control a bajo nivel. Los compiladores suelen ofrecer extensiones al lenguaje que posibilitan mezclar código en ensamblador con código C o acceder directamente a memoria o dispositivos periféricos.
+*Se trata de un lenguaje de tipos de datos estáticos, débilmente tipado, que dispone de las estructuras típicas de los lenguajes de alto nivel pero, a su vez, dispone de construcciones del lenguaje que permiten un control a bajo nivel. Los compiladores suelen ofrecer extensiones al lenguaje que posibilitan mezclar código en ensamblador con código C o acceder directamente a memoria o dispositivos periféricos.*
 
 *— Wikipedia*
 
