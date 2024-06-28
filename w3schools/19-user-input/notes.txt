@@ -1,0 +1,18 @@
+If you use scanf() and NOT strings:
+- You have to use the reference operator (&).
+- You don't have to specify the size of the string/array
+- For example: char myChar; scanf("%c", &myNum);
+
+If you use scanf() and strings:
+- You don't have to use the reference operator (&).
+- You must specify the size of the string/array
+- For example: char firstName[30]; scanf("%s", firstName);
+
+scanf():
+- It considers space (whitespace, tabs, etc) as a terminating character
+- which means that it can only display a single word
+
+fgets():
+- A function to read a line of text.
+- You must include the following arguments: 
+- the name of the string variable, sizeof(string_name), and stdin
