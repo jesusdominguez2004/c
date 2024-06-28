@@ -1,6 +1,6 @@
-# C
+# C 🌿📚🤖
 
-**🌿📚 INFORMACIÓN GENERAL 📚🌿:**
+**INFORMACIÓN GENERAL:**
 
 *C es un lenguaje de programación de propósito general originalmente desarrollado por Dennis Ritchie entre 1969 y 1972 en los Laboratorios Bell,​ como evolución del anterior lenguaje B, a su vez basado en BCPL.*
 
@@ -12,7 +12,7 @@
 
 ---
 
-**🌿📚 ÍCONOS 📚🌿:**
+**ÍCONOS:**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="c" width="70" height="70"/> <img src="https://vetores.org/d/w3schools.svg" alt="w3schools" height="70"/> 
 <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="70" height="70"/>
@@ -20,7 +20,7 @@
 
 ---
 
-**🌿📚 PLANTILLAS NOTAS ESPECIALES GITHUB + MARKDOWN 📚🌿:**
+**PLANTILLAS NOTAS ESPECIALES GITHUB + MARKDOWN:**
 
 > [!NOTE]
 > Nota especial para GitHub + Markdown.
