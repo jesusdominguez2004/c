@@ -1,0 +1,9 @@
+fopen(filename, mode):
+- w (Writes to a file)
+- a (Appends new data to a file)
+- r (Reads from a file)
+
+Tip:
+- If you want to create the file in a specific folder, 
+- just provide an absolute path:
+- fptr = fopen("C:\directoryname\filename.txt", "w");
